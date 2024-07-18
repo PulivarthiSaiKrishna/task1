@@ -1,12 +1,12 @@
-Name: RAVILLA SAI KRISHNA
+Name: Pulivarthi SAI KRISHNA
 
 Company: CODTECH IT SOLUTIONS
 
-ID: CT08DS2568
+ID: CT4IOT2588
 
 Domain: INTERNET OF THINGS
 
-Duration: 15 JUNE 2024 to 15 JULY 2024
+Duration: 20 JUNE 2024 to 20 JULY 2024
 
 IIoT (Industrial Internet of Things)
 
